@@ -1,7 +1,7 @@
 {
   "intervalSeconds": 5,
   "texts": {
-    "txtSaldoValor": "0,00"
+    "txtSaldoValor": "10,50"
   },
   "images": {
     "imgExtrato4": "https://raw.githubusercontent.com/dfhjtdkyhyfuk/CAIXA-conteudo/main/extrato4.png",
